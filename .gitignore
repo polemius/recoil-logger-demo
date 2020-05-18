@@ -4,4 +4,6 @@ yarn-error.log
 *.swp
 
 .cache/
-dist/
+dist/*.js
+dist/*.map
+dist/*.html
